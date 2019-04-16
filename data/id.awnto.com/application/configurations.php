@@ -1,10 +1,10 @@
 <?php
 class Database
 {   
-    private $host = "sql300.epizy.com";
-    private $db_name = "epiz_22862818_awnid";
-    private $username = "epiz_22862818";
-    private $password = "laptoptvs";
+    private $host = "";
+    private $db_name = "";
+    private $username = "";
+    private $password = "";
     public $conn;
      
     public function dbConnection()
