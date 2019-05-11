@@ -124,7 +124,6 @@ body{
 }
 
 
-
 .gb
 {
 	
@@ -140,6 +139,12 @@ body{
     padding:20px 20px 40px 20px;
     
 }
+
+.gb img
+{
+	border-radius:15px;
+}
+
 a
 {
 	color:skyblue;
